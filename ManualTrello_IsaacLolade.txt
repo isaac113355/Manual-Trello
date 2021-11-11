@@ -1,0 +1,17 @@
+Manual Trello
+1.-Nos dirigiremos a https://trello.com/ y realizaremos el proceso de registro con nuestros datos y la información que nos pida.
+(Aquí nos pedirán que escojamos nombre de usuario, contraseña y a la vez nos dirá que creemos un espacio de trabajo y que inivitemos a gente si queremos)
+
+2.- Una vez hecho esto en el menú principal deberemos de buscar la opción que dice crear primer tablero
+(Desde aquí podremos poner o editar las listas de tareas, los procesos y otras muchas cosas, contamos con muchas opciones para poder editar las listas a nuestra medida)
+Los tableros sirven para gestionar un trabajo o proyecto en específico.
+Desde el tablero podremos cambiar el color, filtrar las tarjetas y finalmente añadir miembros.
+Las listas son las columnas en las que podemos encontrar dividas el numero de acciones que queremos que haya ya sea lista de tareas, verificación, hecho, en proceso ,etc.
+En las listas podemos añadir tarjetas, copiar o mover listas y también tenemos la opción de archivar las listas.
+Las tarjetas serían las diferentes tareas que conforman el proyecto.
+En Trello podemos encontrar tres tipos de privacidad de tableros los cuales: privado, equipo y público.
+
+3.-Nosotros crearemos una tarea y si pulsamos en la tarea podemmos encontrar las siguientes opciones: Editar la descripción, añadir comentarios, añadir chekclists, indicar
+fecha de vencimiento. Por otro lado en la opción de etiquetas podemos asignar una o varias etiquetas y crear nuevas etiquetas
+
+4.-Una vez que hayamos tenido en cuenta toda lo que he explicado y ya hayamos configurado los apuntes solo tendríamos que dejar guardado el nustro tablero de trabajo solo nos quedara guardarlo y salir
